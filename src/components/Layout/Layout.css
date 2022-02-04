@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --maxWidth: 1140px;
+    --blue:#05368B;
+    --lightGreen:#8EE4AF;
+    --midGreen:#5CDB95;
+    --darkGreen:#379683;
+    --white:#EDF5E1;
+}
